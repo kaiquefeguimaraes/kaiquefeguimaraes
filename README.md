@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Kaique Ferreira, futuro profissional de tecnologia!
 
 - 🔭 No momento estou estudando Front-End
-- 🌱 Estudando HTML5 e CSS3
+- 🌱 Estudando HTML5, CSS3, Javascript e C
 
 <div align="center">
   <a href="https://github.com/kaiquefeguimaraes">
