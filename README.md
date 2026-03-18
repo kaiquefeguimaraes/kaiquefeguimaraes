@@ -27,7 +27,7 @@
 - Aprendizado Contínuo em Desenvolvimento de Software.
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/kaiquefeguimaraes">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kaiquefeguimaraes&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="kaiquefeguimaraes's GitHub Stats" />
