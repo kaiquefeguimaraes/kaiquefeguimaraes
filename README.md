@@ -13,7 +13,7 @@
 - 🌱 Atualmente estou aprendendo Desenvolvimento de Software na Estácio (Análise e Desenvolvimento de Sistemas).
 - 💻 Possuo conhecimento básico em HTML, CSS, JavaScript, React, Python e PHP.
 - 🗄️ Estou aprimorando minhas habilidades em SQL e fundamentos de banco de dados.
-- 🛠️ Utilizo ferramentas como Git, GitHub e Microsoft Office no meu fluxo de trabalho.
+- 🛠️ Utilizo ferramentas como Git e GitHub.
 - 🤝 Busco colaborar em projetos para iniciantes e adquirir experiência prática.
 - 📚 Gostaria de receber ajuda para aprimorar minhas habilidades de programação e as melhores práticas de desenvolvimento.
 
@@ -23,7 +23,6 @@
 - Projetos em JavaScript e Python.
 - Fundamentos de Banco de Dados (SQL).
 - Controle de Versão com Git e GitHub.
-- Contribuição para Projetos de Código Aberto (Acessível a Iniciantes).
 - Aprendizado Contínuo em Desenvolvimento de Software.
 
 
